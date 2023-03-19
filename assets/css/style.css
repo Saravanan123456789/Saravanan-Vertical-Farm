@@ -1,0 +1,167 @@
+.topbar
+{
+    background-color: white;
+    height:50px;
+    width:100%;
+}
+body{
+    background-color:white;
+}
+.container
+{
+    background-color:black;
+    height:750px;
+    width:93%;
+    margin:auto;
+}
+.header
+{
+    height:80px;
+    background-color:black; 
+}
+.header img{
+    height: 80px; 
+}
+.header ul{
+    float:right;
+    margin-top:25px;
+}
+.header ul li{
+    display:inline;
+    margin-right:20px;
+}
+.header ul li a{
+    color:white;
+    text-decoration:none ;
+    font-size:18px;
+}
+.header ul li button{
+    padding:8px 20px;
+   border-radius: 25px;
+    background-color:#FFAE42;
+}
+.banner h2
+{
+ margin: 50px;  
+ font-size:30px; 
+  color:white;
+    text-decoration:none ;
+    font-family: sans-serif;
+}
+.banner mark
+{
+    background-color: #FFAE42;
+    color: white;
+    
+}
+
+
+.ban p
+{
+    font-family: sans-serif;
+    margin: 50px;
+    color:#FFAE42;
+    font-size: small;
+}
+.ban button
+{
+    padding:8px 20px;
+   
+    border-radius: 25px;
+    margin: 50px;
+}
+.content1
+{
+    border-radius: 25px;  
+  margin-left: 40px;
+    width: 29%;
+    height: 13%;
+    background-color: #FFAE42;
+    float: left;
+    margin-right:0%;
+   
+}
+.content2
+{
+    border-radius: 25px;  
+  margin-left: 10px;
+   width: 29%;
+    height: 13%;
+    background-color: rgb(213, 255, 47);
+    float: left;
+    margin-right:0%;
+}
+.content3
+{
+    border-radius: 25px;  
+    margin-left: 5px;
+    width: 29%;
+    height: 13%;
+    background-color: white;
+    float:left;
+    
+}
+.heading
+{
+    
+    font-size:20px;
+    margin-left: 40px;
+    margin-bottom: -5%;
+    margin-top: 6%;
+   color: black;
+}
+.paral
+{
+    color: black;
+    margin-left:37px;
+
+}
+.bottom1
+{
+   margin-top: 30px;
+    margin-right: 50px;
+    width: 100%;
+    background-color: grey;
+    height:90px;
+    float:left;
+ 
+}
+.bottom1 button
+{
+    margin-top: 40px;
+    margin-left: 50px;
+    float:left;
+    padding:8px 20px;
+   border-radius: 25px;
+    
+}
+.bottom1 p
+{
+    padding:8px 20px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 80px;
+    float: left;
+}
+.bot2 button
+{
+    padding:8px 20px;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-right: 80px;
+    float:right;
+}
+
+.bot4 img
+{
+    padding:8px 20px;
+    border-radius: 25px;
+    margin-top: -2px;
+    margin-right: 10px;
+    float:right;
+}
+.banner img{
+    margin-right:150px;
+    float:right;
+    height:350px;
+}
